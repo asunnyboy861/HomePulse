@@ -1,0 +1,10 @@
+.DS_Store
+/build
+*.xcuserstate
+*.xcuserdatad
+Pods/
+*.ipa
+.env
+Config.xcconfig
+keytext*.md
+COMPETITOR_REPORT.md
