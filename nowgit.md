@@ -15,10 +15,10 @@
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/HomePulse/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/HomePulse/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/HomePulse/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/HomePulse/terms.html | ⏳ Pending (subscription) |
+| Landing Page | https://asunnyboy861.github.io/HomePulse/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/HomePulse/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/HomePulse/privacy.html | ✅ Active |
+| Terms of Use | https://asunnyboy861.github.io/HomePulse/terms.html | ✅ Active |
 
 ## Repository Structure
 
